@@ -19,7 +19,7 @@ this repsitory has some python tools that I have developed
 
 
 -------------------------------------------------------------------------
-if you whant to download these tools you can use **WSL** (The windows subsystem for linux) or if you are on mac you can just use the  terminal or on linux you can use the command line
+if you want to download these tools you can use **WSL** (The windows subsystem for linux) or if you are on mac you can just use the  terminal or on linux you can use the command line
 
 use this powershell command to install WSL
 ```bash
